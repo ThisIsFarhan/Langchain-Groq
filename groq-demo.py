@@ -5,7 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 llm = ChatGroq(
     model="llama-3.1-70b-versatile",
-    groq_api_key = "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",
+    groq_api_key = "",
     temperature=0,
 )
 
